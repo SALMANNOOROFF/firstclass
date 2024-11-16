@@ -1,2 +1,2 @@
 # firstclass
-This my first repo of this class
+This is my first repo of this class
